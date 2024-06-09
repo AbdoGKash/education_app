@@ -14,7 +14,8 @@ This app is for teaching conversation in the English language
 
 ![Screenshot_20240609_204414](https://github.com/AbdoGKash/education_app/assets/160290297/f7d0b386-4a4b-4239-91cf-c754c7edea05)
 
-![Screenshot_20240609_204515](https://github.com/AbdoGKash/education_app/assets/160290297/3dd43c02-a78a-460a-855c-dca711abda33)
+![Screenshot_20240609_204459](https://github.com/AbdoGKash/education_app/assets/160290297/61b532b1-0c75-403d-9886-0a7c4b9a5f14)
+
 
 ![Screenshot_20240609_204422](https://github.com/AbdoGKash/education_app/assets/160290297/e9885225-2a04-4ce7-b9ba-4c8ea083ec31)
 
