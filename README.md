@@ -1,7 +1,6 @@
-# education_app
+# 🚀 Welcome to the Forja App repository!
 
-This app is for teaching conversation in the English language
-
+Welcome to the English Learning App! This mobile application is designed to help users improve their English language skills through an engaging and immersive experience. By combining the fun of watching movies with practical work-related scenarios, users can enhance their vocabulary, comprehension, and conversational abilities.
 # Splash screen
 
 ![Screenshot_20240609_204357](https://github.com/AbdoGKash/education_app/assets/160290297/a3a3899e-3959-4e3d-8109-f75ca920960d)
