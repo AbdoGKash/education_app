@@ -1,6 +1,40 @@
-# 🚀 Welcome to the Forja App repository!
+# 🚀 Welcome to the learn-English App repository!
 
 Welcome to the English Learning App! This mobile application is designed to help users improve their English language skills through an engaging and immersive experience. By combining the fun of watching movies with practical work-related scenarios, users can enhance their vocabulary, comprehension, and conversational abilities.
+
+# 🔧 Overview :
+* **Built with Dart & Flutter Framework.**<br>
+* **State Management :**<br>
+  Bloc & Flutter Bloc: [Bloc](https://pub.dev/packages/bloc) | [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+* **splash screen :** [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)<br>
+* **banner slider :** [carousel_slider](https://pub.dev/packages/carousel_slider)<br>
+* **youtube viedos :** [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)<br>
+* **check enternet :** [connectivity_plus](https://pub.dev/packages/connectivity_plus)<br>
+* **Caching :** [shared_preferences](https://pub.dev/packages/shared_preferences)<br>
+* **Animation Images :** [lottie](https://pub.dev/packages/lottie)<br>
+* **launching a URL :** [url_launcher](https://pub.dev/packages/url_launcher)<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Splash screen
 
 ![Screenshot_20240609_204357](https://github.com/AbdoGKash/education_app/assets/160290297/a3a3899e-3959-4e3d-8109-f75ca920960d)
