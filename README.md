@@ -4,8 +4,7 @@ Welcome to the English Learning App! This mobile application is designed to help
 
 # 🔧 Overview :
 * **Built with Dart & Flutter Framework.**<br>
-* **State Management :**<br>
-  Bloc & Flutter Bloc: [Bloc](https://pub.dev/packages/bloc) | [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
+* **State Management :** Bloc & Flutter Bloc: [Bloc](https://pub.dev/packages/bloc) | [Flutter Bloc](https://pub.dev/packages/flutter_bloc)
 * **splash screen :** [flutter_native_splash](https://pub.dev/packages/flutter_native_splash)<br>
 * **banner slider :** [carousel_slider](https://pub.dev/packages/carousel_slider)<br>
 * **youtube viedos :** [youtube_player_flutter](https://pub.dev/packages/youtube_player_flutter)<br>
