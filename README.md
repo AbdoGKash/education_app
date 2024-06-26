@@ -15,6 +15,14 @@ Welcome to the English Learning App! This mobile application is designed to help
 * **launching a URL :** [url_launcher](https://pub.dev/packages/url_launcher)<br>
 
 
+# ✨ Features
+
+* Learn from Movies: Watch popular movies with English subtitles to learn new words and phrases in context.
+* Workplace English: Access a wide range of scenarios and dialogues commonly encountered in professional settings. Practice business English, including email writing, meeting conversations, and job interviews.
+* Language Switch: Easily switch between different languages within the app to cater to multilingual users and enhance your learning experience.
+* User-friendly Interface: Enjoy a seamless learning experience with our intuitive and user-friendly app design.
+
+
 
 
 
