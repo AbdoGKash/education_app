@@ -21,6 +21,10 @@ Welcome to the English Learning App! This mobile application is designed to help
 * Language Switch: Easily switch between different languages within the app to cater to multilingual users and enhance your learning experience.
 * User-friendly Interface: Enjoy a seamless learning experience with our intuitive and user-friendly app design.
 
+# 🌟 App demo video
+
+### [YouTube](https://youtube.com/shorts/xZomgCAuOFI?si=9PmcZcA1-OR4vqSj)
+
 # 🎨 UI
 
 ### Splash screen
